@@ -8,5 +8,6 @@
 - [Git branch用法总结，查看、新建、删除、重命名](https://blog.csdn.net/afei__/article/details/51567155)
 
 ## 2021.04.11
-- Sourcetree
-- Git Merge
+- [Sourcetree使用方法](https://www.jianshu.com/p/6d2717c2a3e1) 里面有提到Git和svn的区别
+
+
